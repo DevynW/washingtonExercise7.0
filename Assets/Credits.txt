@@ -1,80 +1,20 @@
 Credits
 --------
 
-File -  - 
-Author - 
-Link - 
+Files - All Humanoid Animations - crawlBack, GettingUp, Injured Walk, Jog, Jog Strafe Right, JogBackward, Stumble Backwards, thrillerIdle, ThrillerP1, ThrillerP2, ThrillerP3, ThrillerP4
+Author - Mixamo
+Link - https://www.mixamo.com/#/?page=1&type=Motion%2CMotionPack
 
-File -  - 
-Author - 
-Link - 
+File - characters - Sophie, zombieGirl, manZombie
+Author - Mixamo
+Link - https://www.mixamo.com/#/?page=1&type=Character
 
-File -  - 
-Author - 
-Link - 
+File - Thriller - 
+Author - Michael Jackson
+Link - https://ia803406.us.archive.org/7/items/thriller1982/04.%20Michael%20Jackson%20-%20Thriller.mp3
 
-File -  - 
-Author - 
-Link - 
-
-File -  - 
-Author - 
-Link - 
-
-File -  - 
-Author - 
-Link - 
-
-File -  - 
-Author - 
-Link - 
-
-File -  - 
-Author - 
-Link - 
-
-File -  - 
-Author - 
-Link - 
-
-File -  - 
-Author - 
-Link - 
-
-File -  - 
-Author - 
-Link - 
-
-File -  - 
-Author - 
-Link - 
-
-File -  - 
-Author - 
-Link - 
-
-File -  - 
-Author - 
-Link - 
-
-File -  - 
-Author - 
-Link - 
-
-File -  - 
-Author - 
-Link - 
-
-File -  - 
-Author - 
-Link - 
-
-File -  - 
-Author - 
-Link - 
-
-File -  - 
-Author - 
-Link - 
+File - Alleyway - neglected Backalley
+Author - Cinzambie
+Link - https://sketchfab.com/3d-models/neglected-backalley-f6d1102908f24bb38b9631065893a36e
 
 Ahh Female Startled Surprised Various by AudioRichter -- https://freesound.org/s/169340/ -- License: Attribution 4.0
